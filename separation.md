@@ -36,4 +36,7 @@
 - 前后端不需要关心对方的技术栈，实现业务线之间的对接。
 - node的工程化落地与能力增强，提升了中后台项目的开发和使用体验。
 
+## 参考文档
+
+- [图解基于node.js实现前后端分离](https://yalishizhude.github.io/2016/04/19/front-back-separation/)
 
